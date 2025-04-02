@@ -1,5 +1,5 @@
 # Steam_Accaunt_Returner
-Небольшая утилита, используемая для группы VK ["Восстановление аккаунтов Steam | Trash Destroyer"] (https://vk.com/trashdestroyer?from=groups) (2025 г.)
+Небольшая утилита, используемая для группы VK ["Восстановление аккаунтов Steam | Trash Destroyer"](https://vk.com/trashdestroyer?from=groups) (2025 г.)
 
 Утилита использовалась для облегчения помощи в восстановлении доступа к аккаунту Steam.
 Имеет наиболее минималистичный интрефейс с простыми функцими.
